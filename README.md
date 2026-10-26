@@ -1,4 +1,4 @@
-# BesiegedAlert 1.0.1
+# BesiegedAlert
 
 Standalone Besieged notifications in a wide, draggable gold-bordered banner. Smaller Georgia text, a translucent dark background, and horizontal army information keep the display compact.
 
